@@ -3,7 +3,6 @@
 Este repositorio contiene un sistema de autenticación basado en JSON Web Tokens (JWT) desarrollado con Spring Boot. El proyecto incluye funcionalidades para el registro y inicio de sesión de usuarios, así como la generación y validación de tokens JWT para autenticar solicitudes.
 
 ![image](https://github.com/user-attachments/assets/51a25445-6e5c-46ae-8bb6-439da984693a)
-![image](https://github.com/user-attachments/assets/ab29007c-7665-40be-96e4-06a50e7a5498)
 
 ## Descripción
 
